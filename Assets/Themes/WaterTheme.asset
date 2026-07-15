@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dd845793ea5f3478aeee9c6338671b, type: 3}
+  m_Name: WaterTheme
+  m_EditorClassIdentifier: 
+  Background: {fileID: 7014228263207297058, guid: aa39c504cb230ac44835901ee40ca6af, type: 3}
+  SlotSprite: {fileID: -327952537356098282, guid: f500fd854f0da8d42ac75c5c45cf9436, type: 3}
+  SlotHighlight: {fileID: 0}
+  AccentColor: {r: 1, g: 1, b: 1, a: 1}

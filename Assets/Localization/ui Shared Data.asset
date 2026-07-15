@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ui Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ui
+  m_TableCollectionNameGuidString: e7bd05a849e5fe342bae6c77b948f56d
+  m_Entries:
+  - m_Id: 54151602176
+    m_Key: Main_Host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981796785840128
+    m_Key: Main_join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981899789557760
+    m_Key: Main_options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981934455480320
+    m_Key: Main_quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982344289312768
+    m_Key: RPS_rock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982433279860736
+    m_Key: RPS_paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982473272549376
+    m_Key: RPS_Scissors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982667519156224
+    m_Key: RPS_MYC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982781872660480
+    m_Key: RPS_draw1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982819923386368
+    m_Key: RPS_draw2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982851699433472
+    m_Key: RPS_win1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982926760697856
+    m_Key: RPS_win2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982933270257664
+    m_Key: RPS_win3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982935417741312
+    m_Key: RPS_win4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983423806693376
+    m_Key: RPS_win5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983667072131072
+    m_Key: RPS_lose1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983715692503040
+    m_Key: RPS_lose2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983837998407680
+    m_Key: Options_master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984057280815104
+    m_Key: Options_music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984123110416384
+    m_Key: Options_label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984161702207488
+    m_Key: Options_sfx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984217566142464
+    m_Key: Options_back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984402048409600
+    m_Key: Lobby_label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984494255988736
+    m_Key: Lobby_joinButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984589483466752
+    m_Key: Lobby_SYC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984676460748800
+    m_Key: Lobby_back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986112057761792
+    m_Key: Lobby_WFP_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986182786310144
+    m_Key: Lobby_WFP_MM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986663721984000
+    m_Key: HostSetup_titel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986860518727680
+    m_Key: HostSetup_SYC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987070808547328
+    m_Key: HostSetup_GameName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987276962783232
+    m_Key: HostSetup_SH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987328267509760
+    m_Key: HostSetup_back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987482622091264
+    m_Key: CardGame_EndTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987669587386368
+    m_Key: CardGame_Tribute_conf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987937053958144
+    m_Key: CardGame_Tribute_can
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988024958181376
+    m_Key: Discard_Prompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988365908959232
+    m_Key: CardGame_Resu_MM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988431608537088
+    m_Key: CardGame_PM_GP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988564488282112
+    m_Key: CardGame_PM_res
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988630422740992
+    m_Key: CardGame_PM_options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988729639002112
+    m_Key: CardGame_PM_quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988891035820032
+    m_Key: CardGame_ins_ti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988972812165120
+    m_Key: CardGame_ins_HTP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989018441998336
+    m_Key: CardGame_ins_YT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989087970975744
+    m_Key: CardGame_ins_p1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989146120806400
+    m_Key: CardGame_ins_com
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989253830533120
+    m_Key: CardGame_ins_p2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989271815708672
+    m_Key: CardGame_ins_Ele
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989333388091392
+    m_Key: CardGame_ins_p3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989499880988672
+    m_Key: CardGame_ins_win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989558332809216
+    m_Key: CardGame_ins_p4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989589844615168
+    m_Key: CardGame_ins_card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989612690989056
+    m_Key: CardGame_ins_card_p1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989707687780352
+    m_Key: CardGame_ins_card_p2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989726511816704
+    m_Key: CardGame_ins_card_p3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989764361216000
+    m_Key: CardGame_ins_sc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990050744098816
+    m_Key: CardGame_ins_sc_p1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990165370232832
+    m_Key: CardGame_option_TI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990289186086912
+    m_Key: CardGame_option_MASV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990401794760704
+    m_Key: CardGame_option_MUV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990516181819392
+    m_Key: CardGame_option_SFXV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990593117937664
+    m_Key: CardGame_option_BQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990725523726336
+    m_Key: CardGame_Grave_OP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990862698438656
+    m_Key: CardGame_Grave_you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2457372491505664
+    m_Key: Language_titel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494996727980032
+    m_Key: Turn_Your
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495217721663488
+    m_Key: Turn_Opponent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495293160415232
+    m_Key: Result_Win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495305638469632
+    m_Key: Result_Lose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495333857746944
+    m_Key: Tribute_Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2503897556967424
+    m_Key: Lobby_YourIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505534140833792
+    m_Key: Enter host IP...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542831641026560
+    m_Key: Disconnect_HostWaiting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542971932106752
+    m_Key: Disconnect_ClientHostGone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2548723795091456
+    m_Key: Button_MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2554776268038144
+    m_Key: disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2555288619048960
+    m_Key: reconnect
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8195945574849839152
+  references:
+    version: 2
+    RefIds:
+    - rid: 8195945574849839152
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1764782533568

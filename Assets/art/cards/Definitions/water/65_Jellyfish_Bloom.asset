@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517e9ed973620e54ea7b463ff1926c00, type: 3}
+  m_Name: 65_Jellyfish_Bloom
+  m_EditorClassIdentifier: 
+  Id: 65
+  DisplayName: Jellyfish Bloom
+  Attack: 1
+  Health: 3
+  TributeCost: 0
+  Artwork: {fileID: -406896425851315100, guid: 77bf99247ee36eb4c8b0ea5c15a350fd, type: 3}

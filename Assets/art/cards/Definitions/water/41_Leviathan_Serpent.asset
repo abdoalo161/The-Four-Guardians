@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517e9ed973620e54ea7b463ff1926c00, type: 3}
+  m_Name: 41_Leviathan_Serpent
+  m_EditorClassIdentifier: 
+  Id: 41
+  DisplayName: Leviathan Serpent
+  Attack: 3
+  Health: 6
+  TributeCost: 4
+  Artwork: {fileID: 2880372248810419010, guid: 7b84c1c98467b024a9701c736c2c2a58, type: 3}

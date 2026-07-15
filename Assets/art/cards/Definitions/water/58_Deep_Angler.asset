@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517e9ed973620e54ea7b463ff1926c00, type: 3}
+  m_Name: 58_Deep_Angler
+  m_EditorClassIdentifier: 
+  Id: 58
+  DisplayName: Deep Angler
+  Attack: 2
+  Health: 4
+  TributeCost: 1
+  Artwork: {fileID: -4679842334888138982, guid: 79f4c27cf21327448a7e2d8b1254e930, type: 3}

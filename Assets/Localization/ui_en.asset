@@ -1,0 +1,356 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ui_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e7bd05a849e5fe342bae6c77b948f56d, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8195945728351142006
+  m_TableData:
+  - m_Id: 54151602176
+    m_Localized: Host Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981796785840128
+    m_Localized: Join Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981899789557760
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981934455480320
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982344289312768
+    m_Localized: Rock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982433279860736
+    m_Localized: paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982473272549376
+    m_Localized: Scissors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982667519156224
+    m_Localized: Make your choice !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982781872660480
+    m_Localized: Draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982819923386368
+    m_Localized: Try again..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982851699433472
+    m_Localized: you win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982926760697856
+    m_Localized: 'Now choose Wisely
+
+      who starts ?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982933270257664
+    m_Localized: you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982935417741312
+    m_Localized: or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983423806693376
+    m_Localized: the opponent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983667072131072
+    m_Localized: You lost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983715692503040
+    m_Localized: "waiting for winner choice\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984123110416384
+    m_Localized: Options menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1983837998407680
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984057280815104
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984161702207488
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984217566142464
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984402048409600
+    m_Localized: Available Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984494255988736
+    m_Localized: Join Manually
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984589483466752
+    m_Localized: Select Your Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1984676460748800
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986112057761792
+    m_Localized: Waiting for another player to join...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986182786310144
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986663721984000
+    m_Localized: customization Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986860518727680
+    m_Localized: Select Your Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987070808547328
+    m_Localized: 'Game Name '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987276962783232
+    m_Localized: Start Hosting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987328267509760
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987482622091264
+    m_Localized: End Turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987669587386368
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1987937053958144
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988024958181376
+    m_Localized: Discard a card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988365908959232
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988431608537088
+    m_Localized: Game paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988564488282112
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988630422740992
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988729639002112
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988891035820032
+    m_Localized: 'instructions:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1988972812165120
+    m_Localized: 'How to Play :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989018441998336
+    m_Localized: 'Your Turn :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989087970975744
+    m_Localized: Draw auto. If hand > 8, discard to 8. Drag a card to an empty lane.
+      Press End Turn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989146120806400
+    m_Localized: 'Combat :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989253830533120
+    m_Localized: 'Each lane attacks straight across. Empty enemy lane = direct scale
+      damage. Cards at 0 HP are destroyed. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989271815708672
+    m_Localized: 'Elements :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989333388091392
+    m_Localized: Water > Fire, Fire > Air, Air > Earth, Earth > Water. Strong attacker
+      gets +1 ATK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989499880988672
+    m_Localized: 'Win :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989558332809216
+    m_Localized: 'if you made the opponant scale side drop '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989589844615168
+    m_Localized: 'Card :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989612690989056
+    m_Localized: represents the number of tributes required for this card.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989707687780352
+    m_Localized: represents the  dynamic Attack points  of the card.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989726511816704
+    m_Localized: represents the  dynamic Helth points  of the card.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989764361216000
+    m_Localized: 'Scale :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990050744098816
+    m_Localized: 'the scale image represents the damage dealt to you and to the opponant.
+      if the number is in in yellow that means its in your favor . if its blue that
+      means that you are lossing. And the first person to make the scale hit 20 in
+      his favor wins the match. And Remmember the right side of the scale is you
+      and the lrft is the opponant.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990165370232832
+    m_Localized: Options menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990289186086912
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990401794760704
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990516181819392
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990593117937664
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990725523726336
+    m_Localized: 'opponant Cards:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990862698438656
+    m_Localized: 'Your Cards :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2457372491505664
+    m_Localized: select Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494996727980032
+    m_Localized: Your Turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495217721663488
+    m_Localized: "Opponent\u2019s Turn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495293160415232
+    m_Localized: You Win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495305638469632
+    m_Localized: You Lose!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495333857746944
+    m_Localized: Select {required} card(s) to tribute ({current}/{required})
+    m_Metadata:
+      m_Items:
+      - rid: 8195945728351142006
+  - m_Id: 2503897556967424
+    m_Localized: 'Your IP: {ip}'
+    m_Metadata:
+      m_Items:
+      - rid: 8195945728351142006
+  - m_Id: 2505534140833792
+    m_Localized: Enter host IP...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542831641026560
+    m_Localized: "Waiting for the other player to reconnect\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542971932106752
+    m_Localized: Host disconnected. Please go back to the Main Menu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2548723795091456
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2554776268038144
+    m_Localized: You got disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2555288619048960
+    m_Localized: Reconnect
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8195945728351142006
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2495333857746944
+        - id: 2503897556967424

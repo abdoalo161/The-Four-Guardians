@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517e9ed973620e54ea7b463ff1926c00, type: 3}
+  m_Name: 86_Storm_Crow
+  m_EditorClassIdentifier: 
+  Id: 86
+  DisplayName: Storm Crow
+  Attack: 3
+  Health: 4
+  TributeCost: 2
+  Artwork: {fileID: -6824675992215186563, guid: 898834a80494d2446bc194d605fe6a17, type: 3}

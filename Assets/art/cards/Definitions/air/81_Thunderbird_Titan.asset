@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517e9ed973620e54ea7b463ff1926c00, type: 3}
+  m_Name: 81_Thunderbird_Titan
+  m_EditorClassIdentifier: 
+  Id: 81
+  DisplayName: Thunderbird Titan
+  Attack: 3
+  Health: 5
+  TributeCost: 4
+  Artwork: {fileID: -4796824304604183272, guid: 856cf465b9895ce4197b32ff6be55fa7, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517e9ed973620e54ea7b463ff1926c00, type: 3}
+  m_Name: 4_Fire_Scorpion
+  m_EditorClassIdentifier: 
+  Id: 4
+  DisplayName: Fire Scorpion
+  Attack: 2
+  Health: 5
+  TributeCost: 1
+  Artwork: {fileID: -1152278789990838204, guid: e8259b0186abd5f46a56e6ba14573fd4, type: 3}
